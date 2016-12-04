@@ -1,3 +1,8 @@
+python migrate.py db init
+python migrate.py db migrate
+python migrate.py db update
+python run.py
+
 POST /group/new
 
 {
