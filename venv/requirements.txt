@@ -1,0 +1,14 @@
+requests
+Flask==0.10.1
+Flask-Migrate==1.6.0
+Flask-HTTPAuth==2.3.0
+MarkupSafe==0.23
+Werkzeug==0.9.6
+itsdangerous==0.24
+Flask-RESTful==0.3.4
+Flask-Script==2.0.5
+Flask-SQLAlchemy==2.1
+six==1.10.0
+SQLAlchemy==1.0.9
+marshmallow==2.2.0
+marshmallow-jsonapi==0.3.0
