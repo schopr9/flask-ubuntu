@@ -14,7 +14,7 @@ rest api using sqlalchemy
      python migrate.py db upgrade
      python run.py
      
-     https://www.getpostman.com/collections/efebd7524b80ab032644
+     https://www.getpostman.com/collections/0392d95a122034ad2ba2
      
          GET /users
     GET /user/:id
