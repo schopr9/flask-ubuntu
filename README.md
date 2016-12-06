@@ -13,3 +13,5 @@ rest api using sqlalchemy
      python migrate.py db migrate
      python migrate.py db upgrade
      python run.py
+     
+     https://www.getpostman.com/collections/efebd7524b80ab032644
